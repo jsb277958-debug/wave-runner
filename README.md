@@ -1,7 +1,7 @@
 # wave-runner
 A fast-paced, neon browser arcade game. Dodge obstacles, collect coins, and survive the grid.
 
-How to Play
+- How to Play
 
     Hold (click, tap, or spacebar) to fly up.
 
@@ -9,7 +9,7 @@ How to Play
 
     The controls are simple, but the speed picks up the longer you survive.
 
-Key Features
+- Key Features
 
     Procedural Levels: No two runs are the same. The game generates obstacles on the fly, gradually speeding up as your score climbs. Hitboxes are tuned to be slightly generous, keeping close calls exciting and deaths feeling fair.
 
@@ -25,7 +25,7 @@ Key Features
 
     Daily Rewards: Claim daily rewards to build up a login streak and score major milestone payouts on Day 7.
 
-Technical Specs (For Devs & Platforms)
+- Technical Specs (For Devs & Platforms)
 
     Engine: Pure HTML5 Canvas & Vanilla JavaScript (no external frameworks or libraries).
 
